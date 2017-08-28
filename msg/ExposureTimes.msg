@@ -1,0 +1,3 @@
+time frame_timestamp
+time exposure_time
+time center_of_exposure
