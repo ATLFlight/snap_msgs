@@ -1,4 +1,5 @@
 std_msgs/Header header
+bool snav_mode
 int32 pose_quality
 geometry_msgs/Transform gravity_camera_pose
 std_msgs/Duration time_alignment

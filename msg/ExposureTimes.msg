@@ -1,3 +1,3 @@
-time frame_timestamp
-time exposure_time
+std_msgs/Header header
+duration exposure_time
 time center_of_exposure
